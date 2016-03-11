@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MemahamiAsma</string>
+    <string name="language">Pilih Bahasa:</string>
+    <string name="lang_english">English</string>
+    <string name="lang_malay">Bahasa Malaysia</string>
+    <string name="eng_tab1">Info</string>
+    <string name="eng_tab2">FAQ</string>
+</resources>
